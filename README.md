@@ -18,7 +18,7 @@ For example if you run the following command from inside the attached zip:
 
 you should see:
 
-'''
+```
 'odd' is not a polygon
 'square' surrounds 'triangle'
 'square' intersects 'rectangle'
@@ -32,7 +32,7 @@ you should see:
 'pentagon' is separate from 'square'
 'pentagon' is separate from 'triangle'
 'pentagon' is separate from 'rectangle'
-'''
+```
 
 
 You may have to change permissions on the code file, if so run the following command:
