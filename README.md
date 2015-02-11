@@ -2,7 +2,13 @@ Computational Geometry
 ======================
 
 The code runs from the unix shell.  To run the code from the unix terminal,
-install the items from requirements.txt, then use the following command 
+install the items from requirements.txt
+
+```
+pip install -r requirements.txt
+```
+
+then use the following command 
 
 ```
 ./shapes_1.2.py [file name]
