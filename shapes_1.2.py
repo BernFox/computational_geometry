@@ -217,7 +217,7 @@ if __name__ == '__main__':
 
 
 	#Here I was testing the shape that the first iteration failed on. Seems fine now.
-	#Called it tetris cuz it looks like a piece if from tetris if you draw is out.
+	#Called it tetris cuz it looks like a piece from tetris if you draw it out.
 	#tetris = {
 	#	"id":"tetris test" ,
 	#	"point":[
